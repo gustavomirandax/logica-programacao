@@ -1,6 +1,8 @@
 #!/bin/bash
 
-#Script EBAC Módulo 2: Atividade Prática 
+#Código: Calculadora (números inteiros de 0 a 9)
+
+#Introdução ao código
 
 echo "Por favor, insira o seu nome:"
 read nome
